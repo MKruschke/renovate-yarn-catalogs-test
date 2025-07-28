@@ -2,7 +2,8 @@
   "name": "workspace-b",
   "version": "1.0.0",
   "dependencies": {
-    "cross-env": "catalog:next"
+    "cross-env": "catalog:next",
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "foo-b": "workspace:"
